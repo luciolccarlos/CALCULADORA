@@ -1,0 +1,6 @@
+{
+  "name": "Aprenda Python: Calculadora Básica",
+  "description": "Guia interativo e prático para aprender a criar uma calculadora simples em Python com as quatro operações básicas, execução no navegador e explicações detalhadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
